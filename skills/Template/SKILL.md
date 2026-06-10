@@ -52,3 +52,9 @@ Link to supporting files if needed:
 |-------|----------|
 | **Problem description** | How to fix it |
 | **Another problem** | Another solution |
+
+## Security considerations
+- Exercise caution when adding scripts to your skill.md file.
+- Don't hardcode sensitive information (API keys, passwords).
+- Validate and sanitize any user input to prevent security vulnerabilities.
+- Regularly review and update your skill.md file to ensure it adheres to security best practices.
